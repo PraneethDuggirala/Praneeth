@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: My website Praneeth
+navbar-links:
+  About Me: "This is meeee !!"
+  Resources:
+    - My twitter: "https://twitter.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "Nowhere"
