@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: My website Praneeth
+description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "This is meeee !!"
   Resources:
